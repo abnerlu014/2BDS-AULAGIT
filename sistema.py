@@ -1,2 +1,2 @@
-nome="Nome do Aluno"
+nome="LUQUETA"
 print(nome)
