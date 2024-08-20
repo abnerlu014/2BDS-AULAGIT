@@ -1,2 +1,4 @@
 senai = "SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL"
 print(senai)
+sesi = "SERVIÇO SOCIAL DA INDUSTRIA"
+print(sesi)
